@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"declaration": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"traceResolution": false,
+		"module": "ES2020",
+		"outDir": "dist",
+		"emitDeclarationOnly": true
+	},
+	"include": ["src/**/*"]
+}
